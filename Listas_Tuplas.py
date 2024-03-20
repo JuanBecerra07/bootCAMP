@@ -57,4 +57,9 @@ hoy vamos a ver listas y tuplas
    AND, OR, NOT (funciona igual que las puertas lógicas)
 
 
+* sets 
+   se usan con operaciones como la union o la intersection de conjuntos
+   
+
+
 """
