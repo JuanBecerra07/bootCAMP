@@ -3,3 +3,13 @@ ruta = path
 with open (ruta+"nombre del archivo.txt,"r o w",encoding = ´utf-8´) as file:
 contents = file.read()
 hya formas de leer solo lineas (readline) o readlines el último las va guardando 
+
+
+
+
+JSON 
+load 
+dump
+open 
+
+
