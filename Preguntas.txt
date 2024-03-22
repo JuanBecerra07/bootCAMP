@@ -1,0 +1,8 @@
+lista=list(tabla['Dimensión Observatorio Territorial'].values)
+resultado=['ECONOMÍA Y PRODUCTIVIDAD' for x in lista if x == 'ECONOMÖA Y PRODUCTIVIDAD']
+tabla['Dimensión Observatorio Territorial']=resultado
+tabla
+
+
+preguntar filtro=tabla[(tabla['Nom_Territorio']=='CAQUETA') & (tabla['Cantidad']>300)]
+df[(df['age']>30) & (df['department']=='Management')]
